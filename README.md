@@ -8,7 +8,7 @@ A quickly put together tool that can be run in the terminal to see the weapon le
 
 ## Setup
 
-**Requires python 3.9**
+**Requires python 3.11**
 
 - Grab your member id and a character id from the bungie.net website
 - Make sure `Show my non-equipped Inventory` is checked in your bungie.net privacy settings
