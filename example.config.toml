@@ -1,0 +1,6 @@
+[bungie]
+token = "token_string_here"
+
+[destiny]
+member_id = 0123456789123456789
+character_id = 0123456789123456789
